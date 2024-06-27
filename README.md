@@ -1,4 +1,3 @@
-```markdown
 # Plinio
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -54,4 +53,3 @@ Plinio is licensed under the GNU General Public License v3.0. See the [LICENSE](
 ---
 
 Thanks for checking out Plinio. If you have any questions or suggestions, feel free to reach out!
-```
